@@ -9,7 +9,7 @@ import { useSelector,useDispatch } from 'react-redux';
 import { checkOut,clear } from '../redux/cart/cartAction';
 
 
-// Style
+
 import styles from "./ShopCart.module.css";
 
 const ShopCart = () => {
